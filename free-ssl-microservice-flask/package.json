@@ -1,0 +1,15 @@
+{
+  "name": "free-ssl-microservice-flask",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "reveal-md": "^0.0.32"
+  },
+  "engines": {
+    "node" : "4.1.1"
+  },
+  "scripts": {
+    "present" : "./node_modules/.bin/reveal-md ./slides.md --theme solarized"
+  }
+}
