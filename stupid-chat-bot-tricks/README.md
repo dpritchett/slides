@@ -70,8 +70,7 @@ Hi folks! &nbsp;Come join us for another night of fun and learning with fellow R
 
 ![dpritchett avatar](img/dpritchett-avatar.jpeg) **dpritchett**  i wish this presentation was funny
 
-![elvis avatar](img/elvis-avatar.jpeg) **elvisBOT**  :db1: :db2: :db3: :db4: :db5:
-:dragon:  oooohhh, bummer... looks like you need 2 more ballz
+![elvis avatar](img/elvis-avatar.jpeg) **elvisBOT**  ![dragon ball z balls](img/dragon-balls.png) :dragon:  oooohhh, bummer... looks like you need 2 more ballz
 
 ![dpritchett avatar](img/dpritchett-avatar.jpeg) **dpritchett**  wtf
 
