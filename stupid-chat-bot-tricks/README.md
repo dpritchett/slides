@@ -4,7 +4,7 @@ Did you ever wish you had a chat bot that engendered tech community learning and
 From [PyTennessee](https://www.pytennessee.org/) 2017
 
 ## notes for the bot lover
-Elvis has been a great experience for the Memtech community.  The public source code, the mostly-automated deploys, and the build server mean that very junior developers get the bug and want to try their hand and enhancing our little robot.  Try one in your community or at your office today!  We'd love to help.
+Elvis has been a great experience for the Memtech community.  The public source code, the mostly-automated deploys, and the build server mean that very junior developers get the bug and want to try their hand at enhancing our little robot.  Try one in your community or at your office today!  We'd love to help.
 
 Many thanks to the veterans and newbies of Memtech.
 
