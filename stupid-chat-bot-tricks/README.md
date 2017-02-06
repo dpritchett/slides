@@ -17,25 +17,24 @@ Many thanks to the veterans and newbies of Memtech.
 
 
 ## demo transcript
-**dpritchett**  boatcat i should give a lightning talk
+![dpritchett avatar](img/dpritchett-avatar.jpeg)  **dpritchett**  boatcat i should give a lightning talk
 
-**elvisBOT**  http://i.imgflip.com/1j0w8c.jpg  (24KB)
+![elvis avatar](img/elvis-avatar.jpeg) **elvisBOT**  http://i.imgflip.com/1j0w8c.jpg  (24KB)
 ![http://i.imgflip.com/1j0w8c.jpg](http://i.imgflip.com/1j0w8c.jpg)
 
-**dpritchett**  xkcd 148
+![dpritchett avatar](img/dpritchett-avatar.jpeg)  **dpritchett**  xkcd 148
 
-**elvisBOT**  Mispronouncing https://imgs.xkcd.com/comics/mispronouncing.png  (21KB)
+![elvis avatar](img/elvis-avatar.jpeg) **elvisBOT**  Mispronouncing https://imgs.xkcd.com/comics/mispronouncing.png  (21KB)
 ![https://imgs.xkcd.com/comics/mispronouncing.png](https://imgs.xkcd.com/comics/mispronouncing.png)
 My pal Emad does this all the time. 'Hey man, which way to the airpart?'
 
-**dpritchett** meetup ruby
+![dpritchett avatar](img/dpritchett-avatar.jpeg) **dpritchett** meetup ruby
 
-**elvisBOT** Memphis Ruby Users Group: 02/16/2017 @Fedex Institute of Technology [http://meetups.memphistechnology.org/ruby](http://meetups.memphistechnology.org/ruby)
+![elvis avatar](img/elvis-avatar.jpeg) **elvisBOT** Memphis Ruby Users Group: 02/16/2017 @Fedex Institute of Technology [http://meetups.memphistechnology.org/ruby](http://meetups.memphistechnology.org/ruby)
 Meetup
 Memphis Technology User Groups
 Hi folks! &nbsp;Come join us for another night of fun and learning with fellow Ruby enthusiasts. All experience levels are welcome, even newcomers. As usual, there will be food and drink, and we'll ha
  
-
 ![dpritchett avatar](img/dpritchett-avatar.jpeg) **dpritchett** hometown @vongrippen
 
 ![elvis avatar](img/elvis-avatar.jpeg) **elvisBOT**  Mike Cochran hails from Memphis, TN, and works at FSG Investment Management, LLC! [http://maps.google.com/maps?z=17&q=35.15497509873826,-90.01109898090363](http://maps.google.com/maps?z=17&q=35.15497509873826,-90.01109898090363)
