@@ -79,31 +79,31 @@ Not exactly...
 Ok, maybe this is just one really tiny web app.
 
 ```sh
-daniel@Molly-Millions ~/c/s/free-ssl-microservice> curl https://py-roller.dpritchett.net
+daniel@Molly-Millions ~/c/s/free-ssl-microservice> curl https://py-roller.pritchettbots.com
  -----
 | o   |
 |     |
 |   o |
  -----⏎                                                                                                                           
-daniel@Molly-Millions ~/c/s/free-ssl-microservice> curl https://py-roller.dpritchett.net
+daniel@Molly-Millions ~/c/s/free-ssl-microservice> curl https://py-roller.pritchettbots.com
  -----
 | o   |
 |  o  |
 |   o |
  -----⏎                                                                                                                           
-daniel@Molly-Millions ~/c/s/free-ssl-microservice> curl https://py-roller.dpritchett.net
+daniel@Molly-Millions ~/c/s/free-ssl-microservice> curl https://py-roller.pritchettbots.com
  -----
 | o   |
 |  o  |
 |   o |
  -----⏎                                                                                                                           
-daniel@Molly-Millions ~/c/s/free-ssl-microservice> curl https://py-roller.dpritchett.net
+daniel@Molly-Millions ~/c/s/free-ssl-microservice> curl https://py-roller.pritchettbots.com
  -----
 | o   |
 |     |
 |   o |
  -----⏎
-daniel@Molly-Millions ~/c/s/free-ssl-microservice> time curl https://py-roller.dpritchett.net
+daniel@Molly-Millions ~/c/s/free-ssl-microservice> time curl https://py-roller.pritchettbots.com
  -----
 | o   |
 |  o  |
@@ -179,7 +179,7 @@ end
 ```sh
 root@bloggy:/etc/caddy cat Caddyfile
 # dice demo
-py-roller.dpritchett.net {
+py-roller.pritchettbots.com {
         proxy / localhost:5000
         log syslog
 }
